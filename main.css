@@ -1,0 +1,172 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+
+/*===========*/
+
+/*===========*/
+
+.head {
+  position: absolute;
+  display: flex;
+  height: 80px;
+  width: 1000px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+
+  margin: 0px 20%;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+}
+
+/*===========*/
+
+/*===========*/
+
+.h1 {
+  position: absolute;
+  margin: 234px 1112px 5631px 65px;
+  font-size: 80px;
+  font-family: "Roboto" sans-serif;
+  font-weight: 700;
+  font-weight: bold;
+  color: #12100c;
+}
+#q1 {
+  width: 263px;
+  height: 88px;
+}
+
+#q2 {
+  width: 550px;
+  height: 88px;
+}
+
+/*===========*/
+
+/*===========*/
+
+.h5 {
+  position: absolute;
+  margin: 448px 915px 5473px 65px;
+  font-family: "Roboto" sans-serif;
+  font-size: 23px;
+  color: rgba(18, 16, 12, 0.7);
+}
+
+#w1 {
+  width: 460px;
+  height: 32px;
+}
+
+#w2 {
+  width: 402px;
+  height: 32px;
+}
+
+/*===========*/
+
+/*===========*/
+
+.button {
+  /* Rectangle */
+
+  position: absolute;
+  height: 46px;
+  width: 160px;
+  margin: 559px 1215px 5348px 65px;
+
+  background: #ffae33;
+  box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.1);
+  border-radius: 16px;
+}
+
+/*===========*/
+
+/*===========*/
+
+.text-button {
+  position: absolute;
+  width: 68px;
+  height: 23px;
+  margin: 11px auto 5360px 0px;
+  left: calc(50% - 68px / 2);
+
+  font-family: Roboto;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 22.5px;
+
+  text-align: center;
+  color: #12100c;
+}
+
+/*===========*/
+
+/*===========*/
+
+.img5 {
+  position: absolute;
+  height: 652px;
+  width: 630px;
+  left: 10%;
+  right: 0%;
+  top: 20px;
+  margin: 132px auto 5169px 900px;
+}
+
+/*===========*/
+
+/*===========*/
+
+.text_btn {
+  /* Open a workspace. */
+
+  position: absolute;
+  margin: 559px 1053px auto 249px;
+
+  font-family: Roboto;
+  font-size: 16px;
+  line-height: 24px;
+  color: rgba(18, 16, 12, 0.7);
+}
+
+#r1 {
+  height: 24px;
+  width: 138px;
+}
+
+#r2 {
+  height: 34px;
+  width: 187px;
+}
+
+/*===========*/
+
+/*===========*/
+
+.icons {
+  color: rgba(19, 19, 19, 0.76);
+}
+
+.icon1 {
+  position: absolute;
+  margin-top: 623px;
+  margin-bottom: auto;
+  margin-left: 82px;
+  margin-right: auto;
+}
+
+.icon {
+  position: absolute;
+  margin-top: 623px;
+  margin-bottom: auto;
+  margin-left: 135px;
+  margin-right: auto;
+}
+
+.icon2 {
+  position: absolute;
+  margin-top: 623px;
+  margin-bottom: auto;
+  margin-left: 188px;
+  margin-right: auto;
+}
